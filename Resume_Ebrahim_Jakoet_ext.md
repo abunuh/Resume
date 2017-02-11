@@ -1,6 +1,6 @@
 # Ebrahim Jakoet
-14618 Chambery Dr, Little Rock AR 72211, USA
-Ej4175@att.com, ejakoet@hotmail.com
+14618 Chambery Dr., Little Rock AR 72211, USA
+ej4175@att.com, ejakoet@hotmail.com
 +1 (501) 412-9417 (cell), +1 (214) 717 9959
 ---
 
