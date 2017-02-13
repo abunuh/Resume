@@ -1,16 +1,22 @@
-## Ebrahim Jakoet  
-14618 Chambery Dr.  , Little Rock AR 72211, USA  
-<ej4175@att.com>, <ejakoet@hotmail.com>  
-+1 (501) 412-9417 (cell), +1 (214) 717 9959   
+---
+geometry: margin=1.5cm  
+---
+
+# Ebrahim Jakoet  
+AR USA   
+ej4175@att.com, ejakoet@hotmail.com    
++1 (501) 412-9417 (cell)    
 
 #### CAREER SUMMARY  
 >Currently a Level II Manager with AT&T USA who has 19 years of experience in the wireless and networking industry including managing high performance teams in the industry.  Offers cross-functional leadership, management and technical solutions toward achieving key performance goals.   Provides leadership in Team Management, Strategic Thinking, Agile Program and Project Management, Corporate Finance, Professional Communication and is technically proficient in wireless and networking technologies such as GSM, UMTS, LTE, VOLTE, IP Networking, Full Stack Web Development, Cloud Computing, Big Data Analytics, Machine Learning, Network Functions Virtualization, Software Defined Networks, Genomic Analytics, IT Governance and White Hat Pen Testing.  
 
-#### EDUCATION  
+#### EDUCATION   
+<br>
 *1998	UNIVERSITY OF CAPE TOWN	Cape Town, South Africa*  
 - Master of Science in Electrical Engineering (MSEE)  
 
-#### EXPERIENCE  
+#### EXPERIENCE   
+<br>
 *04/2010-Present	AT&T 	   Little Rock AR, USA*  
 **Level II Manager - RAN VI Engineer**  
 - Provides cross-team leaderhip and direction for technology projects in GSM, UMTS, LTE-A, VOLTE, 5G and emerging technologies.  
@@ -24,7 +30,7 @@
 - Managed launch and Optimization of UMTS markets in AR.  
 - Lead on global network strategy and Best Practice implementations
 
-*06/2005 – 12/2005	Networkers International LLC Dallas TX, USA*
+*06/2005 – 12/2005	Networkers International LLC Dallas TX, USA*  
 **Snr RF Engineer (AT&T, Pre and Post Launch Tuning)**  
 - UMTS launch and optimization of AT&T San Diego CA Market.  
 - Customer solutions and collaboration with Ericsson PDU in Miami FL, Jacksonville FL, Washington DC USA.  
@@ -56,27 +62,27 @@
 **Software Design Engineer**  
 - Design and development of signal processing software based on customer requirements for radio surveillance equipment in assembler, C and C++.  
 
-#### Technical Skills  
+#### TECHNICAL SKILLS  
 - UMTS, LTE, VOLTE Certification (AT&T)
-- CISCO SON SME (ISE Certified).  
+- CISCO SON SME (ISE Certified).
 - AriesoGEO SME (Expert Certified) (SPOC for AROK market)
-- Small Cell (SON Hetnet) design and optimization.  
-- AT&T integrated Cloud, Mirantis OpenStack, AWS and RH Openshift Cloud, Apache Server, Apache Spark, VMware, Hadoop MapReduce and HDFS, SQL, Full-Stack Web development, Flask, SWM, Git.  
-- IP networks and Routing, IPv6 conversion project.  
-- White Hat Pen Testing with Kali Linux.  
+- Small Cell (SON Hetnet) design and optimization.
+- AT&T integrated Cloud, Mirantis OpenStack, AWS and RH Openshift Cloud, Apache Server, Apache Spark, VMware, Hadoop MapReduce and HDFS, SQL, Full-Stack Web development, Flask, SWM, Git.
+- IP networks and Routing, IPv6 conversion project.
+- White Hat Pen Testing with Kali Linux.
 - Statistical Modeling, Data Science, Machine Learning.
-- Coding/Scripting experience in Python, Apache Spark, C++, Unix, HTML, Javascript, PHP, SQL, postgresql, Hadoop MapReduce , Hive, Pig, moshell and ENM scripting for UMTS and LTE/VOLTE.  
-- Experience in a wide variety of RF Optimization, planning and statistical tools (Too many to list).  
+- Coding/Scripting experience in Python, Apache Spark, C++, Unix, HTML, Javascript, PHP, SQL, postgresql, Hadoop MapReduce , Hive, Pig, moshell and ENM scripting for UMTS and LTE/VOLTE.
+- Experience in a wide variety of RF Optimization, planning and statistical tools (Too many to list).
 
-#### Management Skills  
+#### MANAGEMENT SKILLS  
 - Business Management, Strategy and Innovation on Emerging Technologies
 - Vendor Management, Quality Assurance
 - Prolific public speaker and professional communicator
-- Agile Program and Project Management, Product Owner and Scrum Master on Agile Projects.  
+- Agile Program and Project Management, Product Owner and Scrum Master on Agile Projects.
 - Corporate Finance, Financial Statements, Budgets
 - AT&T Leadership
 - Toastmasters Leadership and Competent Communicator Certificate
-- Managing PhD students on genomic analytics research at UALR.  
+- Managing PhD students on genomic analytics research at UALR.
 
-#### Language Skills  
-- Fluent in English, Afrikaans and basic Arabic.  
+#### LANGUAGE SKILLS  
+- Fluent in English, Afrikaans and basic Arabic.
