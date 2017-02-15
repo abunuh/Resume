@@ -2,21 +2,23 @@
 geometry: margin=1.5cm  
 ---
 
-# Ebrahim Jakoet  
-AR USA   
-ej4175@att.com, ejakoet@hotmail.com    
-+1 (501) 412-9417 (cell)    
+\begin{center}
+\Huge Ebrahim Jakoet
+\\ \small AR USA   
+\\ ej4175@att.com, ejakoet@hotmail.com    
+\\ +1 (501) 412-9417 (cell)    
+\end{center}
 
 #### CAREER SUMMARY  
 >Currently a Level II Manager with AT&T USA who has 19 years of experience in the wireless and networking industry including managing high performance teams in the industry.  Offers cross-functional leadership, management and technical solutions toward achieving key performance goals.   Provides leadership in Team Management, Strategic Thinking, Agile Program and Project Management, Corporate Finance, Professional Communication and is technically proficient in wireless and networking technologies such as GSM, UMTS, LTE, VOLTE, IP Networking, Full Stack Web Development, Cloud Computing, Big Data Analytics, Machine Learning, Network Functions Virtualization, Software Defined Networks, Genomic Analytics, IT Governance and White Hat Pen Testing.  
 
 #### EDUCATION   
-<br>
+
 *1998	UNIVERSITY OF CAPE TOWN	Cape Town, South Africa*  
 - Master of Science in Electrical Engineering (MSEE)  
 
 #### EXPERIENCE   
-<br>
+
 *04/2010-Present	AT&T 	   Little Rock AR, USA*  
 **Level II Manager - RAN VI Engineer**  
 - Provides cross-team leaderhip and direction for technology projects in GSM, UMTS, LTE-A, VOLTE, 5G and emerging technologies.  
@@ -80,9 +82,9 @@ ej4175@att.com, ejakoet@hotmail.com
 - Prolific public speaker and professional communicator
 - Agile Program and Project Management, Product Owner and Scrum Master on Agile Projects.
 - Corporate Finance, Financial Statements, Budgets
-- AT&T Leadership
+- AT&T Leadership. iMBA (in progress)
 - Toastmasters Leadership and Competent Communicator Certificate
-- Managing PhD students on genomic analytics research at UALR.
+- Managing PhD students on genomic analytics research at UAMS.
 
 #### LANGUAGE SKILLS  
 - Fluent in English, Afrikaans and basic Arabic.
