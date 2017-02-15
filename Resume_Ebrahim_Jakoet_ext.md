@@ -4,7 +4,7 @@ geometry: margin=1.5cm
 
 \begin{center}
 \Huge Ebrahim Jakoet
-\\ \small AR USA   
+\\  \small AR USA   
 \\ ej4175@att.com, ejakoet@hotmail.com    
 \\ +1 (501) 412-9417 (cell)    
 \end{center}
